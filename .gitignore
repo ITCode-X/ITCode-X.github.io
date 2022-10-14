@@ -1,0 +1,15 @@
+# General
+.idea
+.DS_Store
+node_modules
+dist
+
+# Envoriment
+.env
+
+# Nuxt v3
+*.log*
+.nuxt
+.nitro
+.cache
+.output
